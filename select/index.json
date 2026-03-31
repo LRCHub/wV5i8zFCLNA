@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Kinda Homeless Funk",
+  "base_artist": "Anitor、HugeBoi、VIxnor",
+  "createdAt": "2026-03-31T07:09:37.873690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KINDA HOMELESS FUNK",
+      "artist": "Anitor",
+      "has_synced": false,
+      "path": "select/01_KINDA_HOMELESS_FUNK_Anitor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KINDA HOMELESS FUNK",
+      "artist": "Anitor, HugeBoi & Vlxnor",
+      "has_synced": true,
+      "path": "select/02_KINDA_HOMELESS_FUNK_Anitor,_HugeBoi_&_Vlxnor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KINDA HOMELESS FUNK",
+      "artist": "Anitor, HugeBoi, Vlxnor",
+      "has_synced": true,
+      "path": "select/03_KINDA_HOMELESS_FUNK_Anitor,_HugeBoi,_Vlxnor.lrc"
+    }
+  ]
+}
